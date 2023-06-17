@@ -91,6 +91,13 @@ Here are some ideas to get you started:
   <a href="https://www.javascript.com/" target="_blank">
     <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="vertical-align:top; margin:4px;" /></a>
 </p>
+
+<br/>
+<h1 align="center"> 
+ <strong>
+     Yusuf's GitHub STATISTICS
+  </strong>
+</h1>
 <br/>
 
 <p align="center">
