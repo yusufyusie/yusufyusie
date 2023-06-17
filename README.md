@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ---
 <br/>
 
-<p align="center"> 
+<h1 align="center"> 
  <strong>
   Professional skills
   </strong>
-</p>
+</h1>
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/">
