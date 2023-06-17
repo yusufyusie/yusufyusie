@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 -->
 
 
-#### Trivia 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">You can contact me 🤝 </h3>
+#### Trivia
 - 📝 My website is here: https://yusufyusie.github.io
 - 📫 Follow me on Twitter [@yusufyusiee](https://twitter.com/yusufyusiee) / [@codewityusufyusiee](https://twitter.com/codewithyusufyusiee)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
