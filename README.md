@@ -6,8 +6,14 @@
  <a href="https://github.com/yusufyusie" alt="Yusuf's github">
    <img src="https://img.shields.io/badge/-@yusufyusie-%23181717?style=flat-square&logo=github" />
  </a>
- <a href="https://www.linkedin.com/in/yusufyusie" alt="mukesh's linkedin">
+ <a href="https://www.linkedin.com/in/yusufyusie" alt="Yusuf's linkedin">
    <img src="https://img.shields.io/badge/-yusufyusie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufyusie" />
+ </a>
+  <a href="https://www.instagram.com/in/yusufyusiee" alt="Yusuf's instagram">
+   <img src="https://img.shields.io/badge/-yusufyusiee-d62976?style=flat-circle&logo=Instagram&logoColor=Light yellow&link=https://www.instagram.com/yusufyusiee" />
+ </a>
+ <a href="https://www.facebook.com/yusufyusie" alt="Yusuf's facebook">
+   <img src="https://img.shields.io/badge/-yusufyusie-e74c3c?style=flat&labelColor=e74c3c&logo=facebook&logoColor=white&link=https://www.facebook.com/yusufyusiee" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat-square" />
@@ -39,7 +45,8 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-#### Trivia
+#### Trivia  👤🤝
+ 
 - 📝 My website is here: https://yusufyusie.github.io
 - 📫 Follow me on Twitter [@yusufyusiee](https://twitter.com/yusufyusiee) / [@codewityusufyusiee](https://twitter.com/codewithyusufyusiee)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
