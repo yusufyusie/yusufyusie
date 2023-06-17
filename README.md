@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yusuf Fenta<a href="https://github.com/yusufyusie" target="blank"></a></h1>
+<br/>
 <p align="center"> 
  <a href="https://twitter.com/yusufyusiee" alt="Yusuf's twitter">
    <img src="https://img.shields.io/badge/-@yusufyusiee-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
@@ -19,7 +20,7 @@
    <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat-square" />
  </a>
 </p>
-
+<br/>
 
 ## I'm a full-stack web developer, and engineer specializing in building Web Applications. 
 
@@ -53,6 +54,7 @@ Here are some ideas to get you started:
 - 🦸 Career Aim - Work for a cool product company! 
 
 ---
+<br/>
 
 <p align="center"> 
  <strong>
