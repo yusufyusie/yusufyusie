@@ -12,7 +12,7 @@
  </a>
  
   <a href="https://www.instagram.com/yusufyusiee" alt="Yusuf's instagram">
-   <img src="https://img.shields.io/badge/-yusufyusiee-d62976?style=flat-circle&logo=Instagram&logoColor=Light yellow&link=https://www.instagram.com/yusufyusiee" />
+   <img src="https://img.shields.io/badge/-yusufyusiee-d62976?style=flat-circle&logo=Instagram&logoColor=orange &link=https://www.instagram.com/yusufyusiee" />
  </a>
  <a href="https://www.facebook.com/yusufyusie" alt="Yusuf's facebook">
    <img src="https://img.shields.io/badge/-yusufyusie-e74c3c?style=flat&labelColor=e74c3c&logo=facebook&logoColor=white&link=https://www.facebook.com/yusufyusiee" />
