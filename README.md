@@ -10,7 +10,8 @@
  <a href="https://www.linkedin.com/in/yusufyusie" alt="Yusuf's linkedin">
    <img src="https://img.shields.io/badge/-yusufyusie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufyusie" />
  </a>
-  <a href="https://www.instagram.com/in/yusufyusiee" alt="Yusuf's instagram">
+ 
+  <a href="https://www.instagram.com/yusufyusiee" alt="Yusuf's instagram">
    <img src="https://img.shields.io/badge/-yusufyusiee-d62976?style=flat-circle&logo=Instagram&logoColor=Light yellow&link=https://www.instagram.com/yusufyusiee" />
  </a>
  <a href="https://www.facebook.com/yusufyusie" alt="Yusuf's facebook">
