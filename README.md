@@ -24,11 +24,11 @@
 
 ## I'm a full-stack web developer, and engineer specializing in building Web Applications. 
 
-- 🤝 For the front-end I love building web applications using Angular & ASP.NET Core.
+- 🤝 For the front end I love building web applications using Angular & ASP.NET Core.
 - 🤝 As for the back-end, I work with ASP.NET Core WebAPIs following Clean Architecture Principles.
 - 🌱 I’m currently learning Microverse  ...
 - 🤝 I’m available for freelancing.
-- 👯 I always make sure that I find enough time for the open-source contribution that also helps me expand my knowledge and work with other developers and team globally.
+- 👯 I always ensure I find enough time to work with other developers and teams globally.
 - :nerd_face: Always learning new things
 
 ## 👤 Trivia  🤝
