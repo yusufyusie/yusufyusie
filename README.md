@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 ---
 <br/>
 
-<h1 align="center"> 
+<h3 align="center"> 
  <strong>
   Professional skills
   </strong>
-</h1>
+</h3>
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/">
@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
-<h1 align="center"> 
+<h3 align="center"> 
  <strong>
    📈 Yusuf's GitHub STATISTICS
   </strong>
-</h1>
+</h3>
 <br/>
 
 <p align="center">
