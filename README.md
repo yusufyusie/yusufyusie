@@ -22,7 +22,7 @@
  </a>
 </p>
 
-## => I'm a full-stack web developer, and engineer specializing in building Web Applications. 
+## I'm a full-stack web developer, and engineer specializing in building Web Applications. 
 
 - 🤝 For the front-end I love building web applications using Angular & ASP.NET Core.
 - 🤝 As for the back-end, I work with ASP.NET Core WebAPIs following Clean Architecture Principles.
