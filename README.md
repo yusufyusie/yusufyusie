@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <br/>
 <h1 align="center"> 
  <strong>
-     Yusuf's GitHub STATISTICS
+   📈 Yusuf's GitHub STATISTICS
   </strong>
 </h1>
 <br/>
