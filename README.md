@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-#### Trivia  👤🤝
+** Trivia  👤🤝
  
 - 📝 My website is here: https://yusufyusie.github.io
 - 📫 Follow me on Twitter [@yusufyusiee](https://twitter.com/yusufyusiee) / [@codewityusufyusiee](https://twitter.com/codewithyusufyusiee)
