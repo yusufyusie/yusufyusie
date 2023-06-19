@@ -39,12 +39,8 @@
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
 - 🦸 Career Aim - Work for a cool product company! 
 
-<h2 align="center"> 
- <strong>
-  Professional skills
-  </strong>
-</h2>
-
+ ## Professional skills
+ 
 <p align="center">
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
@@ -77,11 +73,8 @@
     <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="vertical-align:top; margin:4px;" /></a>
 </p>
 
-<h2 align="center"> 
- <strong>
-   📈 Yusuf's GitHub STATISTICS
-  </strong>
-</h2>
+
+  ## 📈 Yusuf's GitHub STATISTICS
 
 <p align="center">
   <a href="#" alt="yusuf's github stats"><img src="https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" /></a>
