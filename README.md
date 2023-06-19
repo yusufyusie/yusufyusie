@@ -40,7 +40,7 @@
 
  ## Professional skills
  
-<p align="center">
+<p>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
@@ -60,7 +60,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
 </p>
-<p align="center">
+<p >
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img  alt="HTML5" width="26px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="vertical-align:top; margin:4px;" />
   </a>&nbsp;&nbsp;
@@ -73,13 +73,13 @@
 </p>
 
 
-  ## 📈 Yusuf's GitHub STATISTICS
+  ## 📈 My GitHub Statistics
 
-<p align="center">
+<p>
   <a href="#" alt="yusuf's github stats"><img src="https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" /></a>
 </p>
 
-<div align='left'>
+<div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufyusie&&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact" alt="yusufyusie" /></p>
 
