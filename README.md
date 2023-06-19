@@ -21,7 +21,6 @@
    <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat-square" />
  </a>
 </p>
-<br/>
 
 ## I'm a full-stack web developer, and engineer specializing in building Web Applications. 
 
