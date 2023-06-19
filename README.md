@@ -25,27 +25,12 @@
 
 ## I'm a full-stack web developer, and engineer specializing in building Web Applications. 
 
-- 🤝 For the front end I love building web applications using Angular & ASP.NET Core.
-- 🤝 As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles.
+- 🤝 For the front-end I love building web applications using Angular & ASP.NET Core.
+- 🤝 As for the back-end, I work with ASP.NET Core WebAPIs following Clean Architecture Principles.
 - 🌱 I’m currently learning Microverse  ...
 - 🤝 I’m available for freelancing.
 - 👯 I always make sure that I find enough time for the open-source contribution that also helps me expand my knowledge and work with other developers and team globally.
 - :nerd_face: Always learning new things
-<!--
-**yusufyusie/yusufyusie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br/>
 
 ## Trivia  👤🤝
  
@@ -53,9 +38,6 @@ Here are some ideas to get you started:
 - 📫 Follow me on Twitter [@yusufyusiee](https://twitter.com/yusufyusiee) / [@codewityusufyusiee](https://twitter.com/codewithyusufyusiee)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
 - 🦸 Career Aim - Work for a cool product company! 
-
----
-<br/>
 
 <h2 align="center"> 
  <strong>
@@ -95,13 +77,11 @@ Here are some ideas to get you started:
     <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="vertical-align:top; margin:4px;" /></a>
 </p>
 
-<br/>
 <h2 align="center"> 
  <strong>
    📈 Yusuf's GitHub STATISTICS
   </strong>
 </h2>
-<br/>
 
 <p align="center">
   <a href="#" alt="yusuf's github stats"><img src="https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" /></a>
