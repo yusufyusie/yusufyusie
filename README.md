@@ -22,7 +22,7 @@
  </a>
 </p>
 
-## I'm a full-stack web developer, and engineer specializing in building Web Applications. 
+## => I'm a full-stack web developer, and engineer specializing in building Web Applications. 
 
 - 🤝 For the front-end I love building web applications using Angular & ASP.NET Core.
 - 🤝 As for the back-end, I work with ASP.NET Core WebAPIs following Clean Architecture Principles.
@@ -31,14 +31,14 @@
 - 👯 I always make sure that I find enough time for the open-source contribution that also helps me expand my knowledge and work with other developers and team globally.
 - :nerd_face: Always learning new things
 
-## Trivia  👤🤝
+## 👤 Trivia  🤝
  
 - 📝 My website is here: https://yusufyusie.github.io
 - 📫 Follow me on Twitter [@yusufyusiee](https://twitter.com/yusufyusiee) / [@codewityusufyusiee](https://twitter.com/codewithyusufyusiee)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
 - 🦸 Career Aim - Work for a cool product company! 
 
- ## Professional skills
+ ## 👋 Professional skills
  
 <p align= "center">
   <a href="https://dotnet.microsoft.com/">
