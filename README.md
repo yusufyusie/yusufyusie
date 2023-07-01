@@ -21,7 +21,7 @@
    <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat-square" />
  </a>
 </p>
-  <img align="right" alt="Coding" width=40% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+ 
 
 ## I'm a full-stack web developer, and engineer specializing in building Web Applications. 
 
@@ -31,6 +31,7 @@
 - 🤝 I’m available for freelancing.
 - 👯 I always ensure I find enough time to work with other developers and teams globally.
 - :nerd_face: Always learning new things
+-  <img align="right" alt="Coding" width=40% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 ## 👤 Trivia  🤝
  
