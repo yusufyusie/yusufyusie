@@ -21,6 +21,7 @@
    <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat-square" />
  </a>
 </p>
+  <img align="right" alt="Coding" width=40% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 ## I'm a full-stack web developer, and engineer specializing in building Web Applications. 
 
@@ -36,7 +37,7 @@
 - 📝 My website is here: https://yusufyusie.github.io
 - 📫 Follow me on Twitter [@yusufyusiee](https://twitter.com/yusufyusiee) / [@codewityusufyusiee](https://twitter.com/codewithyusufyusiee)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
-- 🦸 Career Aim - Work for a cool product company! 
+- 🦸 Career Aim - Work for a cool product company!
 
  ## 👋 Professional skills
  
