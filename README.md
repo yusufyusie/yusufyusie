@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Yusuf Fenta
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">,  I'm Yusuf Fenta
    <a href="https://github.com/yusufyusie" target="blank"></a>
  </h1>
 <br/>
