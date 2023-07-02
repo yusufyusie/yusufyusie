@@ -1,4 +1,7 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Yusuf Fenta<a href="https://github.com/yusufyusie" target="blank"></a></h1>
+<h1 align="center"> Hi there
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Yusuf Fenta
+   <a href="https://github.com/yusufyusie" target="blank"></a>
+ </h1>
 <br/>
 <p align="center"> 
  <a href="https://twitter.com/yusufyusiee" alt="Yusuf's twitter">
@@ -30,8 +33,8 @@
 - 🌱 I’m currently learning Microverse  ...
 - 🤝 I’m available for freelancing.
 - 👯 I always ensure I find enough time to work with other developers and teams globally.
-- :nerd_face: Always learning new things
--  <img align="right" alt="Coding" width=40% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+- :nerd_face: Always learning new things ...
+   <img align="right" alt="Coding" width=40% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 ## 👤 Trivia  🤝
  
@@ -49,7 +52,9 @@
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60px" style="vertical-align:top; margin:4px;/> 
+     </a>
   <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
@@ -65,14 +70,14 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img  alt="HTML5" width="26px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="vertical-align:top; margin:4px;" />
-  </a>&nbsp;&nbsp;
+    <img  alt="HTML5" width="26px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60px" style="vertical-align:top; margin:4px;" />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="vertical-align:top; margin:4px;" /></a>&nbsp;&nbsp;
+    <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60px" style="vertical-align:top; margin:4px;" /></a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="vertical-align:top; margin:4px;" /></a>&nbsp;&nbsp;
+    <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" style="vertical-align:top; margin:4px;" /></a>
   <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="vertical-align:top; margin:4px;" /></a>
+    <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" style="vertical-align:top; margin:4px;" /></a>
 </p>
 
 
