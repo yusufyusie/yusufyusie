@@ -84,16 +84,10 @@
 
   ## 📈 My GitHub Statistics
 
-<p align= "center">
-  <a href="#" alt="yusuf's github stats"><img src="https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" /></a>
-</p>
-
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufyusie&&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact" alt="yusufyusie" /></p>
-<p color="black"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="yusufyusie" /></p>
-<p align="center"> <img  width="140" height="45" src="https://komarev.com/ghpvc/?username=yusufyusie&label=Profile%20views&color=0e75b6&style=flat" alt="yusufyusie"/> </p>
-</div>
-</br>
+[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyusie&card_width=400&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yusufyusie&theme=cobalt&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
+![Views Counter](https://komarev.com/ghpvc/?username=yusufyusie&label=&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 
 ## 🏆 My GitHub Stat Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=6&margin-w=15&margin-h=15&theme=flat&)](https://github.com/ryo-ma/github-profile-trophy)
