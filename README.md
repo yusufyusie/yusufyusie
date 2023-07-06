@@ -88,7 +88,7 @@
 </br>
 
   ## 📈 My GitHub Statistics
-<p align="center">
+<p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img height=200 src="https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" />
 </a>
