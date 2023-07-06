@@ -95,5 +95,5 @@
 </div>
 </br>
 
-## 🏆 See More of My GitHub Profile Stat Trophies 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=5&margin-w=15&margin-h=5&theme=flat&)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 My GitHub Stat Trophies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=5&margin-w=15&margin-h=15&theme=flat&)](https://github.com/ryo-ma/github-profile-trophy)
