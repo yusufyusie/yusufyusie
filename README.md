@@ -93,7 +93,7 @@
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
 </a>  
 </p>
 <p align="center">
