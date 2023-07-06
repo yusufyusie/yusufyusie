@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Yusuf Fenta, a Full-Stack Web Developer 👩‍💻
+<h1 align="center"> Hi there 👋 ,  I'm Yusuf Fenta 👩‍💻
    <a href="https://github.com/yusufyusie" target="blank"></a>
  </h1>
 <br/>
