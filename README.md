@@ -37,12 +37,16 @@
 - :nerd_face: Always learning new things ...
    <img align="right" alt="Coding" width=40% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
+</br>
+
 ## 👤 Trivia  
  
 - 📝 My website is here: https://yusufyusie.github.io
 - 📫 Follow me on Twitter [@yusufyusiee](https://twitter.com/yusufyusiee) / [@codewityusufyusiee](https://twitter.com/codewithyusufyusiee)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
 - 🦸 Career Aim - Work for a cool product company!
+  
+</br>
 
  ## 🛠 Professional skills
  
@@ -81,13 +85,16 @@
     <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
 </p>
 
+</br>
 
   ## 📈 My GitHub Statistics
 
 [![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyusie&card_width=400&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yusufyusie&theme=cobalt&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
-![Views Counter](https://komarev.com/ghpvc/?username=yusufyusie&label=&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
+<img width="170" height = "50" src="https://komarev.com/ghpvc/?username=yusufyusie&label=&label=Profile+Views&color=blue&style=flat" alt="yusufyusie">
+
+</br>
 
 ## 🏆 My GitHub Stat Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=6&margin-w=15&margin-h=15&theme=flat&)](https://github.com/ryo-ma/github-profile-trophy)
