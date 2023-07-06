@@ -70,14 +70,14 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img  alt="HTML5" width="26px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60px" style="vertical-align:top; margin:4px;" />
+    <img  alt="HTML5" width="35px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64px" style="vertical-align:top; margin:4px;" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60px" style="vertical-align:top; margin:4px;" /></a>
+    <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" style="vertical-align:top; margin:4px;" /></a>
+    <img alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
   <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" style="vertical-align:top; margin:4px;" /></a>
+    <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
 </p>
 
 
