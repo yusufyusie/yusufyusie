@@ -25,12 +25,14 @@
 </p>
  
 
-## I'm a full-stack web developer, and engineer specializing in building Web Applications. 
+## Full-stack web developer and engineer building Web Applications 🛠
 
-- 🤝 For the front end I love building web applications using Angular & ASP.NET Core.
-- 🤝 As for the back-end, I work with ASP.NET Core WebAPIs following Clean Architecture Principles.
-- 🌱 I’m currently learning Microverse  ...
-- 🤝 I’m available for freelancing.
+- 🎓 Graduated in Software Engineering
+- 👩‍🎓 Software developer at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
+- ❤️ Front end, I love building web applications using Angular & ASP.NET Core.
+- 🤝 Back-end, I work with ASP.NET Core WebAPIs following Clean Architecture Principles.
+- 🌱 I’m available for freelancing.
+- 🚀 Eager to learn new technologies
 - 👯 I always ensure I find enough time to work with other developers and teams globally.
 - :nerd_face: Always learning new things ...
    <img align="right" alt="Coding" width=40% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
