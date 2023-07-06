@@ -89,8 +89,13 @@
 
   ## 📈 My GitHub Statistics
 
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
+</a>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yusufyusie&theme=cobalt&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
 <img width="170" height = "50" src="https://komarev.com/ghpvc/?username=yusufyusie&label=&label=Profile+Views&color=blue&style=flat" alt="yusufyusie">
 
