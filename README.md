@@ -25,7 +25,7 @@
 </p>
  
 
-## Full-stack web developer and engineer building Web Applications 🛠
+## 🚀 Full-stack web developer and engineer building Web Applications 
 
 - 🎓 Graduated in Software Engineering
 - 👩‍🎓 Software developer at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
@@ -44,7 +44,7 @@
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
 - 🦸 Career Aim - Work for a cool product company!
 
- ## 👋 Professional skills
+ ## 🛠 Professional skills
  
 <p align= "left">
   <a href="https://dotnet.microsoft.com/">
@@ -95,5 +95,5 @@
 </div>
 </br>
 
-## See More of My GitHub Profile Trophy 🚀
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 See More of My GitHub Profile Stat Trophies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=5&margin-w=15&margin-h=5&theme=flat&)](https://github.com/ryo-ma/github-profile-trophy)
