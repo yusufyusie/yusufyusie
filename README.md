@@ -90,10 +90,10 @@
   ## 📈 My GitHub Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=200 src="https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" />
+ <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
 </a>  
 <p align="center">
 <a href="https://git.io/streak-stats">
