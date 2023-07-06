@@ -25,7 +25,7 @@
 </p>
  
 
-## 🚀 Full-stack web developer and engineer building Web Applications 
+## 🚀 Full-Stack Web Developer and Engineer building Web Applications 
 
 - 🎓 Graduated in Software Engineering
 - 👩‍🎓 Software developer at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
