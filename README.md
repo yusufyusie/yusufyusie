@@ -94,4 +94,6 @@
 <p align="center"> <img  width="140" height="45" src="https://komarev.com/ghpvc/?username=yusufyusie&label=Profile%20views&color=0e75b6&style=flat" alt="yusufyusie"/> </p>
 </div>
 </br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufyusie" alt="yusufyusie"/>
+
+## See More of My GitHub Profile Trophy 🚀
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
