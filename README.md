@@ -97,7 +97,7 @@
 </a>  
 
 <a href="https://git.io/streak-stats">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yusufyusie&theme=cobalt&background=25%2C001D2EFD%2C002236&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=yusufyusie&theme=cobalt&background=25%2C001D2EFD%2C002236&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
 <img width="170" height = "50" src="https://komarev.com/ghpvc/?username=yusufyusie&label=&label=Profile+Views&color=blue&style=flat" />
