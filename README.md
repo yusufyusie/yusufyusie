@@ -93,7 +93,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&langs_count=10&locale=en&layout=compact)
 
 <a href="https://git.io/streak-stats">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yusufyusie&theme=cobalt&background=25%2C001D2EFD%2C002236&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yusufyusie&theme=cobalt&background=25%2C001D2EFD%2C002236&hide_border=true&show_icons=true" />
 </a>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
 <img width="170" height = "50" src="https://komarev.com/ghpvc/?username=yusufyusie&label=&label=Profile+Views&color=blue&style=flat" />
