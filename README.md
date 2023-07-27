@@ -33,7 +33,7 @@
 - 🌱 I’m available for freelancing.
 - 🚀 Eager to learn new technologies
 - 👯 I always ensure I find enough time to work with other developers and teams globally.
-- :nerd_face: Always learning new things ...
+- :nerd_face: Always learning new things ... </br>
 
 ## 👤 Trivia  
  
@@ -76,7 +76,7 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
   <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
+    <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:4px;"/></a>
 </p></br>
 
 ## 📈 My GitHub Statistics
