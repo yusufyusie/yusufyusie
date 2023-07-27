@@ -41,9 +41,14 @@
 - 📫 Follow me on Twitter [@yusufyusiee](https://twitter.com/yusufyusiee) / [@codewityusufyusiee](https://twitter.com/codewithyusufyusiee)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
 - 🦸 Career Aim - Work for a cool product company! </br>
-  
+
+## 📈 My GitHub Statistics
+| Statistics |   Languages |
+| ---------- | ----------- |
+ | <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" alt="Yesuf Fenta yusufyusie" width="500" /> |   <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&langs_count=10&locale=en&layout=compact" alt="Yesuf Fenta yusufyusie" width="400"/>|
+</p>
+
  ## 🛠 Professional skills
- 
 <p align= "left">
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
@@ -77,12 +82,6 @@
     <img alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
   <a href="https://www.javascript.com/" target="_blank">
     <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:4px;"/></a>
-</p></br>
-
-## 📈 My GitHub Statistics
-| Statistics |   Languages |
-| ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" alt="Yesuf Fenta yusufyusie" width="500" /> |   <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&langs_count=10&locale=en&layout=compact" alt="Yesuf Fenta yusufyusie" width="400"/>|
 </p>
 
 ## ✨ Commit Streak
