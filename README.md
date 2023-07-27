@@ -35,7 +35,6 @@
 - 🚀 Eager to learn new technologies
 - 👯 I always ensure I find enough time to work with other developers and teams globally.
 - :nerd_face: Always learning new things ...
-   <img align="right" alt="Coding" width=40% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam pw" />
 
 </br>
 
