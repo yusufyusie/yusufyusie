@@ -48,7 +48,7 @@
  | <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" alt="Yesuf Fenta yusufyusie" width="500" /> |   <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&langs_count=10&locale=en&layout=compact" alt="Yesuf Fenta yusufyusie" width="400"/>|
 </p>
 
- ## 🛠 Professional skills
+ # 🛠 Professional skills
 <p align= "left">
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
