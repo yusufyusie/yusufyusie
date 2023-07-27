@@ -22,7 +22,7 @@
  <a>
    <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat-square" />
  </a>
-</p></br>
+</p>
  
 ## 🚀 Full-Stack Web Developer and Engineer building Web Applications 
 
