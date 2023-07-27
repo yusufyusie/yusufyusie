@@ -22,9 +22,8 @@
  <a>
    <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat-square" />
  </a>
-</p>
+</p></br>
  
-
 ## 🚀 Full-Stack Web Developer and Engineer building Web Applications 
 
 - 🎓 Graduated in Software Engineering
@@ -36,17 +35,13 @@
 - 👯 I always ensure I find enough time to work with other developers and teams globally.
 - :nerd_face: Always learning new things ...
 
-</br>
-
 ## 👤 Trivia  
  
 - 📝 My website is here: https://yusufyusie.github.io
 - 📫 Follow me on Twitter [@yusufyusiee](https://twitter.com/yusufyusiee) / [@codewityusufyusiee](https://twitter.com/codewithyusufyusiee)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
-- 🦸 Career Aim - Work for a cool product company!
+- 🦸 Career Aim - Work for a cool product company! </br>
   
-</br>
-
  ## 🛠 Professional skills
  
 <p align= "left">
@@ -82,37 +77,32 @@
     <img alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
   <a href="https://www.javascript.com/" target="_blank">
     <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
-</p>
-
-</br>
+</p></br>
 
   ## 📈 My GitHub Statistics
 | Statistics |   Languages |
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" alt="Habeeb Efiamotu Musa Owolewa" width="500" /> |   <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&langs_count=10&locale=en&layout=compact" alt="Habeeb Efiamotu Musa Owolewa" width="400"/>|
-</p>
+</p></br>
 
 ## ✨ Commit Streak
 [![Yesuf's GitHub commit streak](https://streak-stats.demolab.com/?user=yusufyusie&theme=cobalt&background=25%2C001D2EFD%2C002236&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
    <img width="170" height = "50" src="https://komarev.com/ghpvc/?username=yusufyusie&label=&label=Profile+Views&color=blue&style=flat" />
-</a>
-
-</br>
+</a></br>
 
 ## 🏆 My GitHub Stat Trophies 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=6&margin-w=15&margin-h=15&theme=flat&" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=6&margin-w=15&margin-h=15&theme=flat&" /></a> </p></br>
 
 Please feel free to fork projects, and raise issues if you think something could be better.
-
 
 ⭐️ From [Yesuf](https://github.com/yusufyusie)
 
 ## Happy Coding!! 😊
 
 <div align="center">
-
+   
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
