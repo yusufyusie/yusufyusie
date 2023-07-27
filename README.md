@@ -93,20 +93,19 @@
  | <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" alt="Habeeb Efiamotu Musa Owolewa" width="500" /> |   <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&langs_count=10&locale=en&layout=compact" alt="Habeeb Efiamotu Musa Owolewa" width="400"/>|
 </p>
 
-</br>
-
-## Commit Streak
+## ✨ Commit Streak
 [![Yesuf's GitHub commit streak](https://streak-stats.demolab.com/?user=yusufyusie&theme=cobalt&background=25%2C001D2EFD%2C002236&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img width="170" height = "50" src="https://komarev.com/ghpvc/?username=yusufyusie&label=&label=Profile+Views&color=blue&style=flat" />
+   <img width="170" height = "50" src="https://komarev.com/ghpvc/?username=yusufyusie&label=&label=Profile+Views&color=blue&style=flat" />
 </a>
+
 </br>
 
 ## 🏆 My GitHub Stat Trophies 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=6&margin-w=15&margin-h=15&theme=flat&" /></a> </p>
 
-Please feel free to fork projects, raise issues if you think something could be better.
+Please feel free to fork projects, and raise issues if you think something could be better.
 
 
 ⭐️ From [Yesuf](https://github.com/yusufyusie)
