@@ -35,6 +35,16 @@
 - 👯 I always ensure I find enough time to work with other developers and teams globally.
 - :nerd_face: Always learning new things ... </br>
 
+## 🥅 Work/Jobs
+
+ <a href="https://www.fiverr.com/yesuf53" alt="Yusuf's fiverr">
+   <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&link=https://www.fiverr.com/yesuf53" />
+    </a>
+    
+   <a href="https://www.upwork.com/freelancers/~01a972e71ba17dd821?viewMode=1" alt="Yusuf's fiverr">
+   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01a972e71ba17dd821?viewMode=1" />
+    </a>
+    
 ## 👤 Trivia  
  
 - 📝 My website is here: https://yusufyusie.github.io
