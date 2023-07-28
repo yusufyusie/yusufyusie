@@ -10,7 +10,7 @@
    <img src="https://img.shields.io/badge/-@yusufyusie-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/yusufyusie" alt="Yusuf's linkedin">
-   <img src="https://img.shields.io/badge/-yusufyusie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufyusie" />
+   <img src="https://img.shields.io/badge/yusufyusie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufyusie" />
  </a>
  
   <a href="https://www.instagram.com/yusufyusiee" alt="Yusuf's instagram">
