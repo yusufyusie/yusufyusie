@@ -19,9 +19,6 @@
  <a href="https://www.facebook.com/yusufyusie" alt="Yusuf's facebook">
    <img src="https://img.shields.io/badge/yusufyusiee-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/yusufyusiee" width="125" />
  </a>
- <a>
-   <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat"/>
- </a>
 </p>
  
 ## 🚀 Full-Stack Web Developer and Engineer building Web Applications 
