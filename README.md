@@ -4,23 +4,23 @@
 <br/>
 <p align="center"> 
  <a href="https://twitter.com/yusufyusiee" alt="Yusuf's twitter">
-   <img src="https://img.shields.io/badge/-@yusufyusiee-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+   <img src="https://img.shields.io/badge/@yusufyusiee-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff" />
  </a>
  <a href="https://github.com/yusufyusie" alt="Yusuf's github">
-   <img src="https://img.shields.io/badge/-@yusufyusie-%23181717?style=flat-square&logo=github" />
+   <img src="https://img.shields.io/badge/@yusufyusie-%23181717?style=flat&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/yusufyusie" alt="Yusuf's linkedin">
-   <img src="https://img.shields.io/badge/yusufyusie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufyusie" />
+   <img src="https://img.shields.io/badge/yusufyusie-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufyusie" />
  </a>
  
   <a href="https://www.instagram.com/yusufyusiee" alt="Yusuf's instagram">
-   <img src="https://img.shields.io/badge/-yusufyusiee-d62976?style=flat-circle&logo=Instagram&logoColor=orange &link=https://www.instagram.com/yusufyusiee" />
+   <img src="https://img.shields.io/badge/yusufyusiee-d62976?style=flat&logo=Instagram&logoColor=orange &link=https://www.instagram.com/yusufyusiee" />
  </a>
  <a href="https://www.facebook.com/yusufyusie" alt="Yusuf's facebook">
-   <img src="https://img.shields.io/badge/-yusufyusie-e74c3c?style=flat&labelColor=e74c3c&logo=facebook&logoColor=white&link=https://www.facebook.com/yusufyusiee" />
+   <img src="https://img.shields.io/badge/yusufyusie-e74c3c?style=flat&logoColor=e74c3c&logo=facebook&logoColor=white&link=https://www.facebook.com/yusufyusiee" />
  </a>
  <a>
-   <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat-square" />
+   <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat" />
  </a>
 </p>
  
