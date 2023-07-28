@@ -37,13 +37,13 @@
 
 ## 🥅 Work/Jobs
 
+<p align="center"> 
  <a href="https://www.fiverr.com/yesuf53" alt="Yusuf's fiverr">
-   <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&link=https://www.fiverr.com/yesuf53" />
-    </a>
-    
-   <a href="https://www.upwork.com/freelancers/~01a972e71ba17dd821?viewMode=1" alt="Yusuf's fiverr">
-   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01a972e71ba17dd821?viewMode=1" />
-    </a>
+      <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&link=https://www.fiverr.com/yesuf53" width="140" />
+ </a> 
+  <a href="https://www.upwork.com/freelancers/~01a972e71ba17dd821?viewMode=1" alt="Yusuf's fiverr">
+      <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01a972e71ba17dd821?viewMode=1" width="150"/>
+    </a></p>
     
 ## 👤 Trivia  
  
