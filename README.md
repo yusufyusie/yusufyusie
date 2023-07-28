@@ -33,9 +33,12 @@
 - 🌱 I’m available for freelancing.
 - 🚀 Eager to learn new technologies
 - 👯 I always ensure I find enough time to work with other developers and teams globally.
-- :nerd_face: Always learning new things ... </br>
+- :nerd_face: Always learning new things ...
+  
 
-## 🥅 Work/Jobs
+<h3 align="center"> 🥅 Work/Jobs</h3>
+
+![line](./line.gif)
 
 <p align="center"> 
  <a href="https://www.fiverr.com/yesuf53" alt="Yusuf's fiverr">
@@ -45,20 +48,29 @@
       <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01a972e71ba17dd821?viewMode=1" width="150"/>
     </a></p>
     
-## 👤 Trivia  
+    
+<h3 align="left"> 👤 Trivia  </h3>
+
+![line](./line.gif)
  
 - 📝 My website is here: https://yusufyusie.github.io
 - 📫 Follow me on Twitter [@yusufyusiee](https://twitter.com/yusufyusiee) / [@codewityusufyusiee](https://twitter.com/codewithyusufyusiee)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@yusufyusie](https://www.linkedin.com/in/yusufyusie/)
-- 🦸 Career Aim - Work for a cool product company! </br>
+- 🦸 Career Aim - Work for a cool product company!
+  
 
-## 📈 My GitHub Statistics
+<h3 align="left"> 📈 My GitHub Statistics</h3>
+
+![line](./line.gif)
 | Statistics |   Languages |
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" alt="Yesuf Fenta yusufyusie" width="500" /> |   <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&langs_count=10&locale=en&layout=compact" alt="Yesuf Fenta yusufyusie" width="400"/>|
-</p></br>
+</p>
 
- ## 🛠 Professional skills
+
+ <h3 align="left"> 🛠 Professional skills</h3>
+
+![line](./line.gif) 
 <p align= "left">
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
@@ -92,15 +104,21 @@
     <img alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
   <a href="https://www.javascript.com/" target="_blank">
     <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:4px;"/></a>
-</p></br>
+</p>
 
-## ✨ Commit Streak
+
+<h3 align="left"> ✨ Commit Streak</h3>
+
+![line](./line.gif)  
 | Commit Streak |   Visitors count |
 | ---------- | ----------- |
  | <img align="center" src="https://streak-stats.demolab.com/?user=yusufyusie&theme=cobalt&background=25%2C001D2EFD%2C002236&hide_border=true)](https://git.io/streak-stats" alt="Yesuf Fenta yusufyusie" width="500" /> |   <img align="center" href="https://github.com/antonkomarev/github-profile-views-counter" src="https://komarev.com/ghpvc/?username=yusufyusie&label=&label=Profile+Views&color=blue&style=flat" alt="Yesuf Fenta yusufyusie" width="400"/>|
-</p></br>
+</p>
 
-## 🏆 My GitHub Stat Trophies 
+
+<h3 align="left"> 🏆 My GitHub Stat Trophies</h3>
+
+![line](./line.gif)  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=6&margin-w=15&margin-h=15&theme=flat&" /></a> </p></br>
 
 
