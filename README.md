@@ -17,7 +17,7 @@
    <img src="https://img.shields.io/badge/yusufyusiee-d62976?style=flat&logo=Instagram&logoColor=orange &link=https://www.instagram.com/yusufyusiee" />
  </a>
  <a href="https://www.facebook.com/yusufyusie" alt="Yusuf's facebook">
-   <img src="https://img.shields.io/badge/yusufyusie-e74c3c?style=flat&logoColor=e74c3c&logo=facebook&logoColor=white&link=https://www.facebook.com/yusufyusiee" />
+   <img src="https://img.shields.io/badge/yusufyusiee-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/yusufyusiee" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=yusufyusie&color=ff69b4&style=flat" />
