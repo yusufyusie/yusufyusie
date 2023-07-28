@@ -43,7 +43,10 @@
  </a> 
   <a href="https://www.upwork.com/freelancers/~01a972e71ba17dd821?viewMode=1" alt="Yusuf's fiverr">
       <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01a972e71ba17dd821?viewMode=1" width="150"/>
-    </a></p>
+    </a>
+ <a>
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="40" width="145"/>
+  </a></p>
     
     
 <h3 align="left"> 👤 Trivia  </h3>
