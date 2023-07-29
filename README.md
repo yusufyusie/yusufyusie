@@ -19,7 +19,7 @@
  <a href="https://www.facebook.com/yusufyusie" alt="Yusuf's facebook">
    <img src="https://img.shields.io/badge/yusufyusiee-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/yusufyusiee" height="29" />
  </a>
- <a href="mailto:yesuf023@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt="gmail" /></a>
+ <a href="mailto:yesuf023@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt="Gmail" /></a>
 </p>
  
 ## 🚀 Full-Stack Web Developer and Engineer building Web Applications 
@@ -34,7 +34,7 @@
 - :nerd_face: Always learning new things ...
   
 
-<h3 align="center"> 🥅 Work/Jobs</h3>
+<h3 align="center"> 🥅 Oder Work/Jobs</h3>
 
 ![line](./line.gif)
 
