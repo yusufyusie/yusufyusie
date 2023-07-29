@@ -32,9 +32,8 @@
 - 🚀 Eager to learn new technologies
 - 👯 I always ensure I find enough time to work with other developers and teams globally.
 - :nerd_face: Always learning new things ...
-  
-
-<h3 align="center"> 🥅 Oder Work/Jobs</h3>
+ 
+<h3 align="left"> 🥅 Oder Work/Jobs</h3>
 
 ![line](./line.gif)
 
