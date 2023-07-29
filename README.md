@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 ,  I'm Yusuf Fenta 👩‍💻
+<h1 align="center"> Hi there 👋 ,  I'm Yesuf Fenta 👩‍💻
    <a href="https://github.com/yusufyusie" target="blank"></a>
  </h1>
 <br/>
