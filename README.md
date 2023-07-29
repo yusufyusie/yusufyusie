@@ -48,8 +48,7 @@
  <a>
       <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="40" width="145"/>
   </a></p>
-    
-    
+        
 <h3 align="left"> 👤 Trivia  </h3>
 
 ![line](./line.gif)
@@ -67,7 +66,6 @@
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" alt="Yesuf Fenta yusufyusie" width="500" /> |   <img align="center" src="https://github-readme-stats-test-yusufyusie.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&langs_count=10&locale=en&layout=compact" alt="Yesuf Fenta yusufyusie" width="400"/>|
 </p>
-
 
  <h3 align="left"> 🛠 Professional skills</h3>
 
@@ -120,8 +118,11 @@
 <h3 align="left"> 🏆 My GitHub Stat Trophies</h3>
 
 ![line](./line.gif)  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=6&margin-w=15&margin-h=15&theme=flat&" /></a> </p></br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufyusie&row=2&column=6&margin-w=15&margin-h=15&theme=flat&" /></a> </p>
 
+![line](./line.gif)  
+[![](https://github-readme-activity-graph.vercel.app/graph?username=yusufyusie&theme=cobalt&hide_border=true)](https://github.com/yusufyusie/github-readme-activity-graph)
+</br>
 
 ### Please feel free to fork projects, and raise issues if you think something could be better.
 
