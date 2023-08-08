@@ -63,7 +63,7 @@
 ![line](./line.gif)
 | Statistics |   Languages |
 | ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats-git-master-yusufyusie.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" alt="Yesuf Fenta yusufyusie" width="500" /> |   <img align="center" src="https://github-readme-stats-git-master-yusufyusie.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&langs_count=10&locale=en&layout=compact" alt="Yesuf Fenta yusufyusie" width="400"/>|
+ | <img align="center" src="https://github-readme-stats-git-master-yusufyusie.vercel.app/api?username=yusufyusie&theme=cobalt&hide_border=true&show_icons=true&count_private=true" alt="Yesuf Fenta yusufyusie" width="500" /> |   <img align="center" src="https://github-readme-stats-git-master-yusufyusie.vercel.app/api/top-langs/?username=yusufyusie&card_width=320&theme=cobalt&hide_border=true&show_icons=true&langs_count=10&locale=en&layout=compact" alt="Yesuf Fenta yusufyusie" width="400"/>|
 </p>
 
  <h3 align="left"> 🛠 Professional skills</h3>
