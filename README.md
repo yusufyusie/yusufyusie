@@ -122,6 +122,20 @@
 ![line](./line.gif)  
 [![](https://github-readme-activity-graph.vercel.app/graph?username=yusufyusie&theme=cobalt&hide_border=true)](https://github.com/yusufyusie/github-readme-activity-graph)
 </br>
+<pre>
+   
+┌──┤ ✨ PROJECTS ├───────▰▰▰ 
+│
+├─◈ <a href="https://github.com/yusufyusie/Awesome-books">Awesome Books</a>
+├─◈ <a href="https://github.com/yusufyusie/Leaderboard">LeaderBoard</a>
+├─◈ <a href="https://github.com/yusufyusie/Africa-Day-2023-Concert">African Day 2023 Concert</a>
+├─◈ <a href="https://github.com/yusufyusie/ToDolist-Webpack">ToDolist Webpack App</a>
+├─◈ <a href="https://github.com/yusufyusie/API-based-webapp">API Based Web App</a>
+├─◈ <a href="https://github.com/yusufyusie/yusufyusie.github.io">My Portfolio</a>
+├─◈ <a href="https://github.com/yusufyusie/math-magicians">Math Magicians App</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
 
 ### Please feel free to fork projects, and raise issues if you think something could be better.
 
