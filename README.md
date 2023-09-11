@@ -138,6 +138,9 @@
 └───────────────────────────────▰▰▰
 </pre>
 
+## Hacktoberfest Badge's
+[![@yusufyusie's Holopin badges board](https://holopin.me/yusufyusie)](https://holopin.io/@yusufyusie)
+
 ### Please feel free to fork projects, and raise issues if you think something could be better.
 
 ⭐️ From [Yesuf](https://github.com/yusufyusie)
