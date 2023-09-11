@@ -16,8 +16,8 @@
   <a href="https://www.instagram.com/yusufyusiee" alt="Yusuf's instagram">
    <img src="https://img.shields.io/badge/yusufyusiee-d62976?style=flat&logo=Instagram&logoColor=orange &link=https://www.instagram.com/yusufyusiee" height="29" />
  </a>
- <a href="https://www.facebook.com/yusufyusie" alt="Yusuf's facebook">
-   <img src="https://img.shields.io/badge/yusufyusiee-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/yusufyusiee" height="29" />
+ <a href="https://wellfound.com/u/yusufyusie" alt="Yusuf's AngelList">
+   <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black&link=https://wellfound.com/u/yusufyusie" height="29" />
  </a>
  <a href="mailto:yesuf023@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt="Gmail" /></a>
 </p>
