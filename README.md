@@ -19,7 +19,7 @@
  <a href="https://wellfound.com/u/yusufyusie" alt="Yusuf's AngelList">
    <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black&link=https://wellfound.com/u/yusufyusie" height="29" />
  </a>
- <a href="mailto:yesuf023@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt="Gmail" /></a>
+ <a href="https://www.youtube.com/@yusufyusie/"><img src='https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white' alt="YouTube" /></a>
 </p>
  
 ## 🚀 Full-Stack Web Developer and Engineer building Web Applications 
