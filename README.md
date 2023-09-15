@@ -131,7 +131,7 @@
 ├─◈ <a href="https://yusufyusie.github.io/Africa-Day-2023-Concert/">African Day 2023 Concert</a>
 ├─◈ <a href="https://yusufyusie.github.io/ToDolist-Webpack/dist/">ToDolist Webpack App</a>
 ├─◈ <a href="https://yusufyusie.github.io/API-based-webapp/dist/">API Based Web App</a>
-├─◈ <a href="https://github.com/yusufyusie/yusufyusie.github.io">My Portfolio</a>
+├─◈ <a href="https://yusufyusie.github.io">My Portfolio</a>
 ├─◈ <a href="https://react-math-magicians-xz89.onrender.com">Math Magicians App</a>
 ├─◈ <a href="https://react-bookstore-app-jrsy.onrender.com">BookStore React App</a>
 ├─◈ <a href="https://space-travelers-hub-76fy.onrender.com">Space Travelers Hub React App</a>
