@@ -126,15 +126,15 @@
    
 ┌──┤ ✨ PROJECTS ├───────▰▰▰ 
 │
-├─◈ <a href="https://github.com/yusufyusie/Awesome-books">Awesome Books</a>
-├─◈ <a href="https://github.com/yusufyusie/Leaderboard">LeaderBoard</a>
-├─◈ <a href="https://github.com/yusufyusie/Africa-Day-2023-Concert">African Day 2023 Concert</a>
-├─◈ <a href="https://github.com/yusufyusie/ToDolist-Webpack">ToDolist Webpack App</a>
-├─◈ <a href="https://github.com/yusufyusie/API-based-webapp">API Based Web App</a>
+├─◈ <a href="https://yusufyusie.github.io/Awesome-books/">Awesome Books</a>
+├─◈ <a href="https://yusufyusie.github.io/Leaderboard/dist/">LeaderBoard</a>
+├─◈ <a href="https://yusufyusie.github.io/Africa-Day-2023-Concert/">African Day 2023 Concert</a>
+├─◈ <a href="https://yusufyusie.github.io/ToDolist-Webpack/dist/">ToDolist Webpack App</a>
+├─◈ <a href="https://yusufyusie.github.io/API-based-webapp/dist/">API Based Web App</a>
 ├─◈ <a href="https://github.com/yusufyusie/yusufyusie.github.io">My Portfolio</a>
-├─◈ <a href="https://github.com/yusufyusie/math-magicians">Math Magicians App</a>
-├─◈ <a href="https://github.com/yusufyusie/Bookstore-CMS">BookStore React App</a>
-├─◈ <a href="https://github.com/yusufyusie/space-travelers-hub">Space Travelers Hub React App</a>
+├─◈ <a href="https://react-math-magicians-xz89.onrender.com">Math Magicians App</a>
+├─◈ <a href="https://react-bookstore-app-jrsy.onrender.com">BookStore React App</a>
+├─◈ <a href="https://space-travelers-hub-76fy.onrender.com">Space Travelers Hub React App</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
