@@ -135,6 +135,7 @@
 ├─◈ <a href="https://react-math-magicians-xz89.onrender.com">Math Magicians App</a>
 ├─◈ <a href="https://react-bookstore-app-jrsy.onrender.com">BookStore React App</a>
 ├─◈ <a href="https://space-travelers-hub-76fy.onrender.com">Space Travelers Hub React App</a>
+├─◈ <a href="https://react-metric-webapp.onrender.com">Game of Thrones Character React metrics App</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
