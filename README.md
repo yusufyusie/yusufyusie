@@ -110,7 +110,7 @@
 ![line](./line.gif)  
 | Commit Streak |   Visitors count |
 | ---------- | ----------- |
- | <img align="center" src="https://streak-stats.demolab.com/?user=yusufyusie&theme=cobalt&background=25%2C001D2EFD%2C002236&hide_border=true)](https://git.io/streak-stats" alt="Yesuf Fenta yusufyusie" width="500" /> |   <img align="center" href="https://github.com/antonkomarev/github-profile-views-counter" src="https://komarev.com/ghpvc/?username=yusufyusie&label=&label=Profile+Views&color=blue&style=flat" alt="Yesuf Fenta yusufyusie" width="400"/>|
+ | <img align="center" src="https://streak-stats.demolab.com/?user=yusufyusie&theme=cobalt&background=25%2C001D2EFD%2C002236&hide_border=true)](https://git.io/streak-stats" alt="Yesuf Fenta yusufyusie" width="500" /> |   <img align="center" href="https://github.com/antonkomarev/github-profile-views-counter" src="https://komarev.com/ghpvc/?username=yusufyusie&label=&label=Profile+Views&color=blue&style=flat" alt="Yesuf Fenta yusufyusie" width="300"/>|
 </p>
 
 
