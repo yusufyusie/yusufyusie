@@ -104,14 +104,12 @@
     <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:4px;"/></a>
 </p>
 
-<p align= "left">
-   [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=.net)](https://aspnetcorewebapi.com)
-   [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby)](https://www.ruby-lang.org)
-   [![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails)](https://rubyonrails.org)
-   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)](https://www.postgresql.org)
-   [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)](https://reactjs.org)
-   [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)](https://redux.js.org)
-</p>
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=.net)](https://aspnetcorewebapi.com)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby)](https://www.ruby-lang.org)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails)](https://rubyonrails.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)](https://www.postgresql.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)](https://reactjs.org)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)](https://redux.js.org)
 
 <h3 align="left"> ✨ Commit Streak</h3>
 
