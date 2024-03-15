@@ -69,7 +69,7 @@
  <h3 align="left"> 🛠 Professional skills</h3>
 
 ![line](./line.gif) 
-<p align= "left">
+<p align= "left" style="margin-bottom: 20px;">
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
@@ -78,7 +78,7 @@
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60px" style="vertical-align:top; margin:4px;/> 
-     </a>
+  </a>
   <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
@@ -88,20 +88,20 @@
 </p>
 <p align= "left">
   <a href="https://www.github.com">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:10px">
   </a>
   <a href="https://www.git.com">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:10px">
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img  alt="HTML5" width="35px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64px" style="vertical-align:top; margin:4px;" />
+    <img alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64px" style="vertical-align:top; margin:10px" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
+    <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="64px" style="vertical-align:top; margin:10px" /></a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="64px" style="vertical-align:top; margin:4px;" /></a>
+    <img alt="Sass" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="64px" style="vertical-align:top; margin:10px" /></a>
   <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:4px;"/></a>
+    <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:10px;"/></a>
 </p>
 
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net)](https://aspnetcorewebapi.com)
