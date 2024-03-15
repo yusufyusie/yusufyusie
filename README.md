@@ -104,6 +104,26 @@
     <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" style="vertical-align:top; margin:4px;"/></a>
 </p>
 
+<p align= "left">
+ <a href="https://aspnetcorewebapi.com">
+    <img src="https://via.placeholder.com/50" alt="Asp.net Core Web API" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://www.ruby-lang.org">
+    <img src="https://via.placeholder.com/50" alt="Ruby" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://rubyonrails.org">
+    <img src="https://via.placeholder.com/50" alt="Ruby on Rails" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://www.postgresql.org">
+    <img src="https://via.placeholder.com/50" alt="PostgreSQL" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://via.placeholder.com/50" alt="React" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://redux.js.org">
+    <img src="https://via.placeholder.com/50" alt="Redux" style="vertical-align:top; margin:4px;">
+  </a>
+</p>
 
 <h3 align="left"> ✨ Commit Streak</h3>
 
