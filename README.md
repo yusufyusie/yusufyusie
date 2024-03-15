@@ -105,24 +105,12 @@
 </p>
 
 <p align= "left">
- <a href="https://aspnetcorewebapi.com">
-    <img src="https://via.placeholder.com/50" alt="Asp.net Core Web API" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://www.ruby-lang.org">
-    <img src="https://via.placeholder.com/50" alt="Ruby" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://rubyonrails.org">
-    <img src="https://via.placeholder.com/50" alt="Ruby on Rails" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://via.placeholder.com/50" alt="PostgreSQL" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://reactjs.org">
-    <img src="https://via.placeholder.com/50" alt="React" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://redux.js.org">
-    <img src="https://via.placeholder.com/50" alt="Redux" style="vertical-align:top; margin:4px;">
-  </a>
+   [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=.net)](https://aspnetcorewebapi.com)
+   [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby)](https://www.ruby-lang.org)
+   [![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails)](https://rubyonrails.org)
+   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)](https://www.postgresql.org)
+   [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)](https://reactjs.org)
+   [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)](https://redux.js.org)
 </p>
 
 <h3 align="left"> ✨ Commit Streak</h3>
