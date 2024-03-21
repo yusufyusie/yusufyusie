@@ -150,10 +150,12 @@
 
 <h3 align="left"> 🪢 Connect with me with More Social Links</h3>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yesuf023@gmail.com)
 [![Peerlist](https://img.shields.io/badge/Peerlist-3498DB?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/yusufyusie)
 [![Huntr](https://img.shields.io/badge/Huntr-2ECC71?style=for-the-badge&logo=huntr&logoColor=white)](https://huntr.co/p/yusufyusie)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yusufyusie)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yusufyusie/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yusufyusie)
 
 ## Hacktoberfest Badge's
 [![An image of @yusufyusie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yusufyusie)](https://holopin.io/@yusufyusie)
