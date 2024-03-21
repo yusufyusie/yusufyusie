@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/badge/@yusufyusiee-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff" height="29" />
  </a>
  <a href="https://github.com/yusufyusie" alt="Yusuf's github">
-   <img src="https://img.shields.io/badge/@yusufyusie-%23181717?style=flat&logo=github" height="29" />
+   <img src="https://img.shields.io/badge/yusufyusie-%23181717?style=flat&logo=github" height="29" />
  </a>
  <a href="https://www.linkedin.com/in/yusufyusie" alt="Yusuf's linkedin">
    <img src="https://img.shields.io/badge/yusufyusie-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufyusie" height="29" />
