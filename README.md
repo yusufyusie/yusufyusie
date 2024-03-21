@@ -148,7 +148,7 @@
 └───────────────────────────────▰▰▰
 </pre>
 
-<h3 align="left"> 🪢 More SOCIAL LINKS</h3>
+<h3 align="left"> 🪢 Connect with me with More Social Links</h3>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Peerlist](https://img.shields.io/badge/Peerlist-000000?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/yusufyusie)
