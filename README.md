@@ -110,6 +110,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)](https://www.postgresql.org)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)](https://redux.js.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com)
 
 <h3 align="left"> ✨ Commit Streak</h3>
 
