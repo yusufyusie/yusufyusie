@@ -148,6 +148,13 @@
 └───────────────────────────────▰▰▰
 </pre>
 
+
+<h3 align="left"> 🪢 More SOCIAL LINKS</h3>
+
+[![Peerlist](https://img.shields.io/badge/Peerlist-000000?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/yusufyusie)
+[![Huntr](https://img.shields.io/badge/Huntr-000000?style=for-the-badge&logo=huntr&logoColor=white)](https://huntr.co/p/yusufyusie)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yusufyusie)
+
 ## Hacktoberfest Badge's
 [![An image of @yusufyusie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yusufyusie)](https://holopin.io/@yusufyusie)
 
