@@ -22,7 +22,7 @@
  <a href="https://www.youtube.com/@yusufyusie/"><img src='https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white' alt="YouTube" /></a>
 </p>
  
-## 🚀 Full-Stack Web Developer and Engineer building Web Applications 
+## 🚀 Full-Stack Web Developer & Engineer building Web Applications 
 
 - 🎓 Graduated in Software Engineering
 - 👩‍🎓 Software developer at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
