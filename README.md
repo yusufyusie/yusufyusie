@@ -3,24 +3,27 @@
  </h1>
 <br/>
 <p align="center"> 
+   
+ <a href="https://www.linkedin.com/in/yusufyusie" alt="Yusuf's LinkedIn">
+   <img src="https://img.shields.io/badge/yusufyusie-%230077B5?style=flat&logo=linkedin&logoColor=white" height="29" />
+ </a>
  <a href="https://twitter.com/yusufyusiee" alt="Yusuf's twitter">
    <img src="https://img.shields.io/badge/@yusufyusiee-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff" height="29" />
  </a>
  <a href="https://github.com/yusufyusie" alt="Yusuf's github">
-   <img src="https://img.shields.io/badge/yusufyusie-%23181717?style=flat&logo=github" height="29" />
+   <img src="https://img.shields.io/badge/yusufyusie-%23181717?style=flat&logo=github&logoColor=white" height="29" />
  </a>
- <a href="https://www.linkedin.com/in/yusufyusie" alt="Yusuf's linkedin">
-   <img src="https://img.shields.io/badge/yusufyusie-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufyusie" height="29" />
- </a>
- 
-  <a href="https://www.instagram.com/yusufyusiee" alt="Yusuf's instagram">
-   <img src="https://img.shields.io/badge/yusufyusiee-d62976?style=flat&logo=Instagram&logoColor=orange &link=https://www.instagram.com/yusufyusiee" height="29" />
+ <a href="https://www.instagram.com/yusufyusiee" alt="Yusuf's Instagram">
+   <img src="https://img.shields.io/badge/yusufyusiee-%23E4405F?style=flat&logo=instagram&logoColor=white" height="29" />
  </a>
  <a href="https://wellfound.com/u/yusufyusie" alt="Yusuf's AngelList">
-   <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black&link=https://wellfound.com/u/yusufyusie" height="29" />
+   <img src="https://img.shields.io/badge/AngelList-%23D4D4D4?style=flat&logo=AngelList&logoColor=black" height="29" />
  </a>
- <a href="https://www.youtube.com/@yusufyusie/"><img src='https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white' alt="YouTube" /></a>
+ <a href="https://www.youtube.com/@yusufyusie" alt="Yusuf's YouTube">
+   <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white" height="29" />
+ </a>
 </p>
+
  
 ## 🚀 Full-Stack Web Developer & Engineer building Web Applications 
 
