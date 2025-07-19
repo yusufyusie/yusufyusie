@@ -140,7 +140,7 @@
 ├─◈ <a href="https://yusufyusie.github.io/Awesome-books/">Awesome Books</a>
 ├─◈ <a href="https://yusufyusie.github.io/Africa-Day-2023-Concert/">African Day 2023 Concert</a>
 ├─◈ <a href="https://yusufyusie.github.io/ToDolist-Webpack/dist/">ToDolist Webpack App</a>
-├─◈ <a href="https://yusufyusie.github.io">My Portfolio</a>
+├─◈ <a href="https://yesuffenta.netlify.app/">My Portfolio</a>
 ├─◈ <a href="https://react-math-magicians-xz89.onrender.com">Math Magicians App</a>
 ├─◈ <a href="https://react-bookstore-app-jrsy.onrender.com">BookStore React App</a>
 ├─◈ <a href="https://book-my-doctor-ui-wngd.onrender.com">Book-my-doctor-ui</a>
