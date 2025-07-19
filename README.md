@@ -157,10 +157,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yusufyusie/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yusufyusie)
 
-## Hacktoberfest Badge's
+## Hacktoberfest Badges
 [![An image of @yusufyusie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yusufyusie)](https://holopin.io/@yusufyusie)
 
-### Please feel free to fork projects, and raise issues if you think something could be better.
+### Please feel free to fork projects and raise issues if you think something could be better.
 
 ⭐️ From [Yesuf](https://github.com/yusufyusie)
 
