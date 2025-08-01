@@ -27,7 +27,7 @@
  
 ## 🚀 Full-Stack Web Developer & Engineer building Web Applications 
 
-- 🎓 Graduated in Software Engineering [Adama Science and Technology University (ASTU)]([https://www.microverse.org](https://www.astu.edu.et/)/?grsf=nnlhmv)
+- 🎓 Graduated in Software Engineering [Adama Science and Technology University (ASTU)]([https://www.microverse.org](https://www.astu.edu.et/?grsf=nnlhmv)
 - 👩‍🎓 Software developer at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
 - ❤️ Front-end, I love building web applications using Angular & ASP.NET Core.
 - 🤝 Back-end, I work with ASP.NET Core WebAPIs following Clean Architecture Principles.
